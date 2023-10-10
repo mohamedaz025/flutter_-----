@@ -115,7 +115,7 @@ appBar: AppBar(
                   child: Text("belquis",style:TextStyle(fontSize: 22,),),
                   width: 100,
                   height: 100,
-                  color: Colors.blue,
+                  color: Colors.purple,
                 ),
               )
            
